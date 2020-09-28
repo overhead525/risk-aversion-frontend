@@ -1,0 +1,16 @@
+:root {
+    font-size: 16px;
+}
+
+.ra-input {
+    margin-bottom: 1.6rem;
+}
+
+.center-children {
+    display: grid;
+    place-items: center;
+}
+
+.some-left-padding {
+    padding-left: 0.8rem;
+}
